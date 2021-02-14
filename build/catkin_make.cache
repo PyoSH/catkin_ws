@@ -1,0 +1,2 @@
+control_00
+-DCATKIN_DEVEL_PREFIX=/home/masterpyo/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/masterpyo/catkin_ws/install -DCATKIN_WHITELIST_PACKAGES=control_00 -G Unix Makefiles

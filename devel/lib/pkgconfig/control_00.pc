@@ -1,0 +1,8 @@
+prefix=/home/masterpyo/catkin_ws/devel
+
+Name: control_00
+Description: Description of control_00
+Version: 0.0.01
+Cflags: -I/home/masterpyo/catkin_ws/src/control_00/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs sensor_msgs
